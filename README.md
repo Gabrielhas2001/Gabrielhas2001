@@ -39,7 +39,8 @@ I'm so glad you're here. I hope that now we can be a little closer.
 ## Curiosities about me
 
 * I was gold medal in chess at my school
-* I've been passionate about music since I've known myself as a human being. Inspired by my father.
+* I've been passionate about music since I've known myself as a    human being. Inspired by my father.
 * I like to shower in the rain. In fact, I think I have something with water, maybe I'm one of Poseidon's lost sons.
 * As a developer, my biggest project will be to help as many people as possible. I want to develop a Software capable of teaching programming from scratch to advanced,
  and English for people with less financial conditions. But the Software will be public and very well structured.
+ * I intend to record videos and do live for twitch, not just about programming, but about me in general.
