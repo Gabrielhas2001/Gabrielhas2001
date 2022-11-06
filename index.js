@@ -1,2 +1,0 @@
-console.log("VAI BRAZILIAR")
-console.log("EU NAO SEI O QUE FAZERRRRRRRRRRR")
