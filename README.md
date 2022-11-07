@@ -1,4 +1,5 @@
-<div>
+#### Oops... I didn't see you there. Know a little about me.
+<div align="center">
     <a target='_blank' href="https://twitch.tv/panttersson">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
@@ -16,7 +17,22 @@
     </a>
 </div>
 
-#### Oops... I didn't see you there. Know a little about me.
+<div align="center">
+  <a href="https://github.com/Gabrielhas2001">
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Gabrielhas2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gabriel Alves github status"/>
+    <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielhas2001&theme=tokyonight" alt="Gabriel Alves most used frameworks"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhas2001&layout=compact&langs_count=6&theme=tokyonight" alt="Gabriel Alves most used languages"/>
+  </a>
+</div>
+
+#
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ 
+  
+</div>
 
 ## Public information
 
@@ -33,8 +49,8 @@ I'm so glad you're here. I hope that now we can be a little closer.
 * **Name**: Gabriel Henrique Alves dos Santos
 * **Age**: 21
 * **Living in**: Maceió - AL, Brazil
-* **Stack**: HTML- CSS - JavaScript - ReactjS - Node.Js - PostgreSQL
-* **Apprenticeship**: Full-Stack Developer at Cubos Academy
+* **Stack**: Studying HTML, CSS and JavaScript. 
+* **Apprenticeship**: Full-Stack Developer in Training at Cubos Academy
 
 ## Curiosities about me
 
