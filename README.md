@@ -49,7 +49,7 @@ I'm so glad you're here. I hope that now we can be a little closer.
 * **Name**: Gabriel Henrique Alves dos Santos
 * **Age**: 21
 * **Living in**: Maceió - AL, Brazil
-* **Stack**: Studying HTML, CSS and JavaScript. 
+* **Stack**: Studying HTML - CSS - JavaScript. 
 * **Apprenticeship**: Full-Stack Developer in Training at Cubos Academy
 
 ## Curiosities about me
