@@ -1,62 +1,68 @@
-#### Oops... I didn't see you there. Know a little about me.
-<div align="center">
-    <a target='_blank' href="https://twitch.tv/panttersson">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
-    <a target='_blank' href="https://twitter.com/GabeePett">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a target='_blank' href="https://instagram.com/panttersson">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.linkedin.com/in/gabrielhalvess/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.youtube.com/channel/UCy3FN8FhAP5I0pFAzACIXtQ">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
-</div>
+<p align="center">
+    Oops, I didn't see you there, know a little about me.
+</p>
 
-<div align="center">
-  <a href="https://github.com/Gabrielhas2001">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Gabrielhas2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gabriel Alves github status"/>
-    <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielhas2001&theme=tokyonight" alt="Gabriel Alves most used frameworks"/>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhas2001&layout=compact&langs_count=6&theme=tokyonight" alt="Gabriel Alves most used languages"/>
-  </a>
-</div>
+<p align="center">
+    <a href="https://twitter.com/GabeePett">
+    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gabrielhalvess/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Gabrielhas2001&style=for-the-badge"/>
+</p>
 
-#
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+## About me:
+* Gabriel Alves, 21 years
+* Full stack developer in training
+* I'm studying JavaScript, HTML and CSS and trying to create content
+* I started studying programming 2 months ago. 
+
+## My skills:
+
+<details>
+  <summary>Languagues</summary>
  
+ > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</details>
+
+<details>
+  <summary>Versioning</summary>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+</details>
+
+<details>
+  <summary>Others</summary>
   
-</div>
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</details>
 
-## Public information
+## You can find me on:
+*Click on the image to be redirected*
 
-My name is Gabriel, but honestly, I prefer to be called Gabe, Pett, Gabi, Pettersson, Panttersson... Well, I do have a lot of nicknames.
+<a href="https://twitter.com/GabeePett"><img alt=Twitter src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/gabrielhalvess/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:gabrielhas2001@gmail.com">
+<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I write from Maceió, Alagoas, a city in Brazil. But being honest too, I can't wait to move to Minas Gerais.
+**Discord**: Gabriel Alves#4471
 
-I'm evolving daily as a developer. In December 2022 it will be 1 year since I entered this fantastic world.
 
-I'm so glad you're here. I hope that now we can be a little closer.
+<p align="center">
+<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Gabrielhas2001&theme=moltack"/>
+</p>
 
-## Detailed information
 
-* **Name**: Gabriel Henrique Alves dos Santos
-* **Age**: 21
-* **Living in**: Maceió - AL, Brazil
-* **Stack**: Studying HTML - CSS - JavaScript. 
-* **Apprenticeship**: Full-Stack Developer in Training at Cubos Academy
 
-## Curiosities about me
 
-* I was gold medal in chess at my school
-* I've been passionate about music since I've known myself as a    human being. Inspired by my father.
-* I like to shower in the rain. In fact, I think I have something with water, maybe I'm one of Poseidon's lost sons.
-* As a developer, my biggest project will be to help as many people as possible. I want to develop a Software capable of teaching programming from scratch to advanced,
- and English for people with less financial conditions. But the Software will be public and very well structured.
- * I intend to record videos and do live for twitch, not just about programming, but about me in general.
+
