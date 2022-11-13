@@ -17,6 +17,7 @@
 * Full stack developer in training
 * I'm studying JavaScript, HTML and CSS and trying to create content on youtube
 * I started studying programming 2 months ago. 
+* Full-stack developer in training at Cubos Academy
 
 ## My skills:
 
