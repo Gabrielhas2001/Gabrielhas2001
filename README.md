@@ -14,7 +14,6 @@
 
 ## About me:
 * Gabriel Alves, 21 years
-* Full stack developer in training
 * I started studying programming 2 months ago. 
 * Full-stack developer in training at Cubos Academy
 
