@@ -70,8 +70,9 @@
 
 
 <div align="center">
-    <img height="140em" alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Gabrielhas2001&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhas2001&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/gabrielhas2001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhas2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhas2001&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
