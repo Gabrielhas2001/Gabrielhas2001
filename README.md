@@ -62,8 +62,18 @@
 > ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
+<br>
+<br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
 
+<a href="https://github.com/gabrielhas2001/">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhas2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhas2001&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="gabrielhas2001"/>
+
+</a>
+</div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 *Click on the image to be redirected*
@@ -78,13 +88,6 @@
 </a>
 
 **Discord**: Gabriel Alves#4471
-
-
-<div align="center">
-  <a href="https://github.com/gabrielhas2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhas2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhas2001&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
 
