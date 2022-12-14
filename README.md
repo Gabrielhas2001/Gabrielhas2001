@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
 <h1 align="center"><b>Hi , I'm Gabriel Alves </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github;I'm+21+years+old;I'm+a+full-stack+developer;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000F3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github;I'm+21+years+old;I'm+a+full-stack+developer;+:%29)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://twitter.com/GabeePett">
